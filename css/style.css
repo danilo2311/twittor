@@ -14,8 +14,8 @@ body {
     width: 100%;
     /* IOS y ANDROID */
     overscroll-behavior-y: contain;
-    /* -webkit-user-select: none; */
-    user-select: none;
+    -webkit-user-select: none;
+    /* user-select: none; */
     -webkit-tap-highlight-color: transparent;
     -webkit-touch-callout: none;
 }
